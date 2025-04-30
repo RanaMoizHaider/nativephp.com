@@ -155,7 +155,7 @@
                     class="relative isolate z-10 flex w-full max-w-xs flex-col items-center overflow-hidden rounded-2xl bg-[#F6F1EB] p-8 text-center ring-4 ring-inset ring-white/60 dark:bg-black/50 dark:ring-white/5"
                 >
                     {{-- Subtitle --}}
-                    <p class="text-sm text-gray-500">Coming soon for</p>
+                    <p class="text-sm text-gray-500">Available now for</p>
                     {{-- Title --}}
                     <h3
                         id="android-heading"
@@ -165,7 +165,7 @@
                     </h3>
                     {{-- Text --}}
                     <p class="pt-2.5 text-sm dark:text-gray-400">
-                        We're hard at work on Android support. Stay tuned!
+                        Join the Early Access Program and start developing iOS apps today.
                     </p>
                     {{-- Mockup --}}
                     <div class="pt-10">
@@ -844,7 +844,7 @@
             <p class="italic">We can't wait to see what you build!</p>
             <p>
                 <span class="font-bold italic dark:text-white">
-                    Simon &amp; Marcel
+                    Simon, Shane &amp; Marcel
                 </span>
                 <br />
                 <span class="text-indigo-400">Creators of NativePHP</span>
